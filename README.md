@@ -1,10 +1,6 @@
 ## Olá!, Meu nome é Yure
 
 - 📚 Estudando JavaScript, CSS, HTML e React
-<div>
-  <a href="https://github.com/Yure-dev">
-    <img  heigth="180em" src="https://github-readme-stats.vercel.app/api?username=yure-dev&show_icons=true&theme=radical">
-  </a>
   
 <div style="display: inline_block"><br>
    <img  align="center" alt="Yure-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=40">
