@@ -19,6 +19,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Yure-dev/Yure-dev/output/snake.svg" alt="Snake animation" />
-
 ###
